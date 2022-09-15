@@ -1,6 +1,4 @@
-<h1 align="center">CounterApp</h1>
+<h1 align="center">Character Counter</h1>
 <p align="center">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/72634228/188763375-8a682d91-3f71-4666-b1ed-2b2674b69505.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/72634228/190520330-127b54b6-be0e-499d-98f5-0079517cd77d.png">
 </p>
-# RandomColorGen
-# CharacterCounter
