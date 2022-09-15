@@ -23,7 +23,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  /* background: linear-gradient(0deg, rgb(251, 255, 0), rgb(255, 191, 82)); */
+  background: linear-gradient(210deg, rgb(163, 206, 255), rgb(255, 191, 82));
 }
 
 p {
@@ -47,13 +47,18 @@ img {
 
 .counter-div {
   width: 40rem;
-  border: 1px solid var(--grey);
-  padding: 1rem;
-  background: linear-gradient(20deg, rgba(0, 0, 0, 0.401), rgba(0, 0, 0, 0.402), rgba(0, 0, 0, 0.401));
+  border: 1px solid white;
+  padding: 3rem;
+  background: linear-gradient(30deg, rgba(195, 27, 27, 0.401), rgba(253, 21, 21, 0.402), rgba(255, 0, 0, 0.401));
   color: var(--white);
   text-align: center;
   border-radius: 2rem;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.355);
+  animation: animate-border 3s infinite;
+}
+
+hr {
+  background: white;
 }
 
 .stylish {
